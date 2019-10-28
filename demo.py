@@ -1,1 +1,1 @@
-db_confuck="mysql"
+db_config="mysql"
