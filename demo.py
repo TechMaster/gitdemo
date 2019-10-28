@@ -1,2 +1,4 @@
 print("Hello World")
-print("Hi Hi hi")
+print("Make it right")
+for i in range(5):
+	print(i)
